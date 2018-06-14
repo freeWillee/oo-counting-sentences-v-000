@@ -18,6 +18,5 @@ class String
     sentence_array = self.split(/[.?!]+/)
     binding.pry
     return sentence_array
-    
   end
 end
